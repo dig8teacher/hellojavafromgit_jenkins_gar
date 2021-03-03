@@ -5,7 +5,7 @@ class hello
   public static void main(String[] args)
   {
     int test = 10;
-    String s
+    String s;
       
     System.out.println("hello maggie");
     System.out.println("we are live from jenkins");
