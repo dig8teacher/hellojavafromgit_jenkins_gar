@@ -15,7 +15,7 @@ class hello
           
     Scanner obj = new Scanner(System.in);
     System.out.println("What is the name of our software ");
-    s = "Jenkins";
+    s = obj.nextLine();
     System.out.println("It is " + s);
     System.out.println("getting input is hard");
     }
