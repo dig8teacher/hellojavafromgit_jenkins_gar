@@ -17,5 +17,6 @@ class hello
     System.out.println("What is the name of our software ");
     s = "Jenkins";
     System.out.println("It is " + s);
+    System.out.println("getting input is hard");
     }
  }
