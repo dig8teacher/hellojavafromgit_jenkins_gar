@@ -13,7 +13,7 @@ class hello
     if (test == 10) {
       System.out.println("this is a 10 out of 10");
     }
-    ;    
+       
     Scanner obj = new Scanner(System.in);
     System.out.println("What is the name of our software ");
     
