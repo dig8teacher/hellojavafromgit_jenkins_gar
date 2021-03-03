@@ -18,6 +18,7 @@ class hello
     System.out.println("getting input is hard");    
     s = "Jenkins";
     System.out.println("It is " + s + " that is supposed to be said");
+    System.out.println("We are waiting to see if SN 10 will launch, it has been sorta of aborted twice");
     
     }
  }
