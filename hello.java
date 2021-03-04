@@ -20,6 +20,7 @@ class hello
     System.out.println("It is " + s + " that is supposed to be said");
     System.out.println("We are waiting to see if SN 10 will launch, it has been sorta of aborted twice");
     System.out.println("SN 10 did in fact actually fly on its 3rd launch-lets see what happened");
+    System.out.println("we are going to watch it now");
     
     }
  }
